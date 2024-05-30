@@ -1,0 +1,14 @@
+/Users/huiyun/Desktop/Antra/C#/Practice_number_sizes_and_ranges/02UnderstandingTypes/bin/Debug/net8.0/02UnderstandingTypes
+/Users/huiyun/Desktop/Antra/C#/Practice_number_sizes_and_ranges/02UnderstandingTypes/bin/Debug/net8.0/02UnderstandingTypes.deps.json
+/Users/huiyun/Desktop/Antra/C#/Practice_number_sizes_and_ranges/02UnderstandingTypes/bin/Debug/net8.0/02UnderstandingTypes.runtimeconfig.json
+/Users/huiyun/Desktop/Antra/C#/Practice_number_sizes_and_ranges/02UnderstandingTypes/bin/Debug/net8.0/02UnderstandingTypes.dll
+/Users/huiyun/Desktop/Antra/C#/Practice_number_sizes_and_ranges/02UnderstandingTypes/bin/Debug/net8.0/02UnderstandingTypes.pdb
+/Users/huiyun/Desktop/Antra/C#/Practice_number_sizes_and_ranges/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huiyun/Desktop/Antra/C#/Practice_number_sizes_and_ranges/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.AssemblyInfoInputs.cache
+/Users/huiyun/Desktop/Antra/C#/Practice_number_sizes_and_ranges/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.AssemblyInfo.cs
+/Users/huiyun/Desktop/Antra/C#/Practice_number_sizes_and_ranges/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.csproj.CoreCompileInputs.cache
+/Users/huiyun/Desktop/Antra/C#/Practice_number_sizes_and_ranges/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.dll
+/Users/huiyun/Desktop/Antra/C#/Practice_number_sizes_and_ranges/02UnderstandingTypes/obj/Debug/net8.0/refint/02UnderstandingTypes.dll
+/Users/huiyun/Desktop/Antra/C#/Practice_number_sizes_and_ranges/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.pdb
+/Users/huiyun/Desktop/Antra/C#/Practice_number_sizes_and_ranges/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.genruntimeconfig.cache
+/Users/huiyun/Desktop/Antra/C#/Practice_number_sizes_and_ranges/02UnderstandingTypes/obj/Debug/net8.0/ref/02UnderstandingTypes.dll
