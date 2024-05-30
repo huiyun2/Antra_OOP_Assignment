@@ -1,6 +1,5 @@
-# Antra_OOP_Assignment
+Short Answer
 
-Short Answer Questions:
 1. What are the six combinations of access modifier keywords and what do they do?
 public: Accessible from any code.
 private: Accessible only within the containing class or struct.
@@ -79,4 +78,5 @@ True
 False
 
 23. True/False. A class can implement more than one interface.
+True
 True
